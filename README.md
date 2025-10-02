@@ -23,7 +23,6 @@
 
 ---
 
-
 %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/0/0, changed state to up
 
 R1#
