@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, meu nome é Eduarda Reis!
 
-<!--
-**dudareiz/dudareiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** – 3º semestre  
+💻 Interesse em **Desenvolvimento de Software**  
+🚀 Atualmente aprendendo **Java, JavaScript, TypeScript, HTML, CSS, SQL e Angular**  
+✨ Em busca de oportunidades para aplicar conhecimentos e crescer na área de tecnologia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+![Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?username=dudareiz&show_icons=true&theme=radical)
+
+---
+
+## 📌 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudareiz&layout=compact&theme=radical)
+
+---
+
+## 🔗 Conecte-se comigo
+- 💼 [LinkedIn](https://www.linkedin.com/in/eduarda-santos-reis-8846b6281)  
+- ✉️ duda1.reiz@gmail.com
+
+---
+
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/0/0, changed state to up
+
+R1#
+
+
+
+
+
+
